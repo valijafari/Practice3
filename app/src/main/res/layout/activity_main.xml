@@ -28,7 +28,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_gravity="center"
-            android:textSize="30dp"
+            android:textSize="25dp"
             android:gravity="center"
             android:textColor="#0427F1"
             android:text="تمرین  3 جلسه 4" />
